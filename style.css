@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "MyCustomeFont";
+    src: url('assets/font/BeaufortforLOL-HeavyItalic.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+.heading{
+    text-align:center ; font-size: 64px; font-family:"MyCustomeFont";
+}
+
+#paragraph {
+    font-size:200%
+}
